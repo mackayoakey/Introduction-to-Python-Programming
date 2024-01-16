@@ -17,3 +17,5 @@ https://credentials.edx.org/credentials/cf3edc5f393b4f7797384f6044c5777a/
 - Computing in Python IV: Objects & Algorithms
 
 My goal was to take notes for each class, but I only really started doing that in the second course. This repo will be a place for me to store those notes for future reference.
+
+By the fourth course I think I got my rhythm down on how to take notes for this class, so if you're only going to check out one of my Jupyter Notebooks, check that one out!
